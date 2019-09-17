@@ -1,0 +1,4 @@
+Title (20 chars max): Hello World
+
+Blurb (unsure limit):
+Ewa Grabowiecka and Joe Wright introduce the podcast and talk about the jobs situation in Scottish tech. The main topic is about CodeCraft itself, its history, how it works and where its heading in the future

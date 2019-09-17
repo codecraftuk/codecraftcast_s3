@@ -1,0 +1,10 @@
+Title (20 chars max): Pentesting with Andy Gill
+
+Blurb (unsure limit):
+Andy Gill joins Ewa Grabowiecka and Joe Wright in the studio to bring us into the world of penetration testing. Discover what a day in the life of a pentester involves and how to break into the security industry yourself.
+
+Links:
+
+* Andy's book: https://leanpub.com/ltr101-breaking-into-infosec
+* Andy's blog: https://blog.zsec.uk/
+* Trial Andy mentions: https://youtu.be/L8kQsMEqAMc

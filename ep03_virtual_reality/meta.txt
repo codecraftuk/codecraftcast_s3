@@ -1,0 +1,10 @@
+Title (20 chars max): Virtual Reality with Suzanne Lee
+
+Blurb (unsure limit):
+Suzanne Lee takes Ewa Grabowiecka and Joe Wright into the world of virtual reality. We chat about using VR in healthcare to help with anxiety and dementia and Suzanne gives her tips on how to chase your passion.
+
+Links:
+
+* CivTech: https://civtech.atlassian.net/wiki
+* Suzanne's blog: https://suzanneshowcasingvr.com/
+* Pivotal Reality: https://www.pivotalreality.com/

@@ -1,0 +1,251 @@
+Hello, and welcome to our new podcast. Cold led to Caracas. I'm your host ever. And with me, there is... That's jurist yes, was also a host. So this is our first step. So it's very exciting, isn't it?
+
+Yeah, indeed, I am pretty hired for this.
+
+I think it's gonna be a good conversation.
+
+So what we can do in this podcast, I I think the plan is to talk about software development, tech in Scotland, some of the things we as developers and contra daily lives, and that kind of stuff. Yeah, yeah, sounds good to me and see if it works. Several... Yeah, so I... So you, Joe.
+
+Yeah, pretty much the same thing. But also we're hoping to update people on what some of the ways news is this happening is "calend and then a topic that's dear to us, yes, and then see where for else we can share, yes.
+
+Oh, that's a it's fun.
+
+So why don't we start with our new section, so we're gonna have a new section. That's the idea and it's going to be riven "escalan to the people in a... And I think today, it was your turn to can you think I didn't rise it, was tons, but I'm glad to know that I am off hook for the next one. Now I was looking through was happening in Scotland in the Texan and one of things that caught my eye was so fine by Polly Paris, who's head of Scott is and she was in a news talking about this being a skills shortage. schooltea 'cause, I guess, Scotland's quite small, right? We don't have that at compared to the rest of the UK, we don't have that many people.
+
+Yeah, these 25 min people, and work has gotten it as 4% of them are currently in tech. That's a 96. so of the great stats you can get if you read the PDF, alright, it's quite little.
+
+It's quite a small sector I guess.
+
+Yeah, I suppose to don't know the sides of other things but currently there's 13-000 vacancies of Able, which at...
+
+I can be methanol. Matter of the next time and the DIA warning, and there of course is if we don't meet these vacancies, I could limit the growth of some of the companies we've got Scotland, from. Be able to hire also the jobs could just go somewhere else.
+
+That's true.
+
+So what we can do, you know I love talking about hiring 'cause I think I went to one of the events in ASCO and someone said it's either higher or drone and that was the analogy. And that's exactly what they're talking about. They were saying that if you can't find a talent, the right talent, then you're not going to throw as a company. And I think currently if there is a skill short churches as a company, you can either choose to rot of trying to find the talent or recruit the talent and then train them up to be even better.
+
+Yeah, or train internal agencies or internal people who may not be in technical roles and train them up, put them through stuff and then get them into those technical positions, which is I think what Mark is sensors is doing. I think they have a really big thing. They were saying that they were going to train their staff to become data scientists. No, I think, I personally think it's a good way to go.
+
+I mean, yeah, certainly training people up is definitely a good way to go.
+
+Yeah, so I do all Tucson were way... They're not interested in making a batter some way 'cause we know in software development, it's all about learning that about being a knowledge worker, it's about knowing that you're gonna have to keep learning, or to your job. We can't do things the same way we did 10 years ago. Yeah, that's true, but as a part of this, I think caring about stuff and I think people who, like myself, are career changers. I think curio changes are going to play a massive part in filling that shortage. The skill shorter gap because if you've got someone who has experience in a field and then you give them the tech skills, they are becoming a much better rounded and of knowledge worker, especially if you've had someone who has worked before, and then they come in into your organization with, let's say, management experience or sales experience or anything, a university graduate, doesn't offer you.
+
+I think tech skills can be taught that is not to say that graduates from an universities are not with workers, 'cause they are... And they have a wealth of technical experience.
+
+Yeah, sure, I got me. You don't have to choose one. We have a mix, I am the... It actually lists with the mixes it in the report, as well. So for these 3... 000 vacancies that we're trying to expand our industry with even a year universities in color and the schemes out graduates that to... Yeah, it's more than that would be. That's not 13-000. so yeah, it's like this gap. So where we can get these extra people from... And co-Clan, which is one of the places where you can convert from doing an over-occupation, and they have scaling this going well, but it's 200. so obviously that's not gonna be enough and... But I didn't know it. It's like "carmarthen divide saying about, I think it's this year in the US, a third of new people coming into this career actually from Colonie type schools. Now, I am so it'll be much bigger. Obviously, it's not that big in Scotland yet, but that seems to be the trend for the industry.
+
+Yeah, and I guess, called clan is Who is their target audience? I guess is people that have, I think, it do take graduates in other things like as a conversion then, so you can study something and then go do that, okay? But I think majority of people that have already worked so I know bunch people Aberdeen they worked in the oil and gas.
+
+I see that's not, it's drying up, I suppose. And now that they did that course now they're in our... In text, you go as people who had been kicking around for 12 years, they know how to add all to work and things like that, and you can get them into his lot less career training you need to give them because Ally have worked for fair while. So it's more just the tech skills, and working as a team.
+
+Yeah, and I guess every work we'll have it similar or you need to turn up a certain tell you they need to do your work, you need to be responsible and as you said, adult thing... But I don't really know if I can delete.
+
+Okay, I'm not going, I'm not there yet.
+
+Okay, I still stay up to playing your game. Yeah, well, as Safeco must be an in a file in a dusty... Yeah, but yourself, your converted from a different occupation right?
+
+Yes, so I did microbiology before I did something called informatics, which is a computational side of microbiology DNA-RNA stuff and I just thought computer start a cool listing in the world and the reason why I go into Tech is a university. When I was in my "Capelle was a person and they had an arena, and they had a lunch box and they make holes in the lunch box with fire. I think it was just like this heated metal I, the fire, there's a set, I think just heated up the screw driver, and they poked the cooked holes in this lunch box and they had tons of little sensors coming over and then they put it on a lake and they had a camera on top and they called it, they were not the Opus 'cause I was like, "I octopus but it was mapping things up, it was like temperature and then I got sent to your computer, and as a kind of 21-year-old I was like What?
+
+That's pretty amazing that was so go.
+
+So CO-and the camera is then making little the... So it was very cute. And then that's kind of what got me to do in Bioinformatics and Computational Biology and then I was like, "This is tinted stuff and it was great and then I went to the industry and I couldn't really find that outlet for my computational skills, right? Oh yeah, I dislike to just convert that. I did a year at Glasgow.
+
+It is a distinction.
+
+Worked Hart thank you, thank you. work's really hard it's going through a covert course is very tough. I think that's a topic for another podcast, right? Okay, I wanna ask one all the... That's interesting, yeah.
+
+People talk about conversion course but the MIT of personal impact that you have in terms of your position if you've been a manager, it's really hard to then be like... Well, I'm a junior again, so a lot of personal eagle, a lot of growth in terms of technical skills, a lot of sitting down at a desk, which I think a lot of people are not used to, especially in my area, microbiology to lab work, so it's quite manual and... Yeah, it's just the way of thinking, just how much color anyway, I'm not gonna go into it a tool enough of time. spoilage I know I did the traditional thing was with were people of life, which is I just want to make a pipe games.
+
+It turns out you need to build to program to do that, it turns out you need to be actually be quite good at over different things to do. Computer games. So I stick to the coding part 'cause that's pre-easy.
+
+A small was all the rage there was the best job, how we could ever get, which is a web master.
+
+Oh, I have... Who Wants To Be front and develop? It could be a word I went... That was amazing. I mean in... So I did the any job at the time. This is the 90s, it said needs Computing Science Degree at the "barbey single one. So I was like Okay, fair enough. I enjoy this, I'll go off and do that and yeah, and then when I go out, do you want my first year at Oasis? You're working in microbiology.
+
+He realises estate, so there's a lot of oil and so there's a lot of microbiology startups kicking around there.
+
+Yeah, I remember it was... Did some devices to help well tank as detect weirder being poor bacteria in the mansion, but also remember they did... Did food sampling as well that I can plotter, and that this and the... Every now and again, like a bunch of pies, of this wife. Trust your door and its trade and you're like, "Oh that's great, but so loses most of his appeal. When you find out the testing of diseases, things like that, viruses... Bacteria is like...
+
+I mean, it doesn't stop. Many people wouldn't help me.
+
+I see a sample, so I don't know what kind of lab is Main. They made PDF okay that's a robot.
+
+What ages testator wanted.
+
+I don't know what that... Yes, well for any surprises yeah, yeah, the last thing I wanted to put out, which is a positive news from the report was they also track the number of women entering the industry. Okay, and they have percentages in the... Basically it's been the vendors report for nine years, and it is the first time since they started where the trend is actually slightly upwards, towards a number of women's joining our industry rather than downwards, so it, it's gone from a simple 18%-23%.
+
+That's great, that's where you get to hear you had a nice... Yeah, because it locally, starts each year, see where they're going and they generally have not been a positive reading and is a white discussion. Do you have about why that is? But it's for the first time in two years that she has gone up and it's trending up, so... So its women in tech, in general or is it women? And "Tranter was... This is the percentage of people who identify as women within the digital set-in scale.
+
+So to the 9600, yes.
+
+Okay, you could work out, if you're very quick in... You had how many that is born around 2000 Speight that's a great... Yeah, we onesie.
+
+I went to a... It'll be interesting when he... Does it stay in a report, like Why or are they still kind of pondering or... There's no conjecture in there, into its more hard Star to go in, but like I say, that's got Polly purpose in next time. Did you want next year and see if you wanna talk about it on the pod?
+
+Oh, I don't... Yeah, but well, well the Estate had in there around this was that they were still said that 60% companies did feel they still needed help. Getting a the interviewing process and a way of just helping people on set there. Stay there. So there still obviously tons to do here and people are recognizing that they need to be more... It's a very positive thing to say 'cause I think admitting there is a problem is I suppose to... It is the first seven day.
+
+Have you been interviewing, have you ever been the position to enter in the consultant usually? And generally people don't want the sales. You were hearing more Cussons. They don't don't want you to be doing that Poynter views.
+
+Oh, okay interesting, interesting.
+
+Yeah, I suppose I could be about a biased but you probably want...
+
+I don't know, I don't know, maybe they should be asking me a...
+
+I think that's another topic for another post customer.
+
+Yeah, absolutely.
+
+So let's try and see how many recruitment companies to come in, 'cause they are the ones that know how to do it right, hopefully they know how to suppose either the best place to get feedback and give feedback about what works and what doesn't. Exactly, and I think there is a massive drive, especially in recruitment to have better stats when it comes... Applicant applicants. And yeah, I think there's a couple of companies in Scotland that are trying their best and they're doing good job, so I think... Yeah, I think it is trend in establishing Stan Hough as well, right? So this is a number of people we placed, and this is the identifying.
+
+Then you can "Alfieri ones are actually trying to be harder and stuff for... Yeah oh I, as pressure. Some people, as we can with the haunting they have a looking to... 'cause I know that there are some companies that do publish reports on areas now have to done they... Yeah, but no, no, no, but they publish they will interview their clients and then they will say how they place and things like that.
+
+So I think there is a couple of companies who are trying to be more transparent because transparency goes trust a lot of the time, so I guess it's also a great marketing strategy, to... Yeah, well, let's watch the space. I'm sure we'll come back to this topic in the future.
+
+Yes, so she... We move on to our main topic of the day.
+
+Yes, I think we should be a Antoinette. So just... We had a cut break and they just Ebony to visualize the fact that Joe has a Canon board or to talk about... Oh yeah, so he's very proudly moving everything along as we go along, meant which is called Craft.
+
+Yeah, what is that?
+
+I know that's not hopefully, one of those "do I don't know if do we know?
+
+Yeah, so I think I'm going to owe you a bit core craft. Okay, so what is called capture?
+
+So, craft is a monthly meet-up primarily based in LA for software developers, so we try to think that we want to make a space for software developers to get along and come along and try some new things, or so some chats about things. They've got a work crispa for them to try experiments and ask where for the right years, make any sense.
+
+So it's like a nice place to be.
+
+Yeah, well... Yeah, a community, yeah, Nishi it come about. So organizing map is a sticky business because you as an organizer are responsible all of a serif group of adults, there's often alcohol involved. There's a lot of decisions that you need to make in terms of venues, speakers formats sign-ups.
+
+Yeah, it's at work on a... It's a lot of work, so it's almost like there's something called event organizers that I get paid for this.
+
+Yeah, so let's serve the beginning. So, how did Calico about... Okay, so I've been running me up in class co-since 2006.
+
+I was faster host the web-centric Meet-Up, which was in the goat in the West End as a way... As I, yeah, that was all the web masters. My outbound talks about how the artist plans are spinning.
+
+Yeah, and it was quite good fun but I had so bedtime and from the back of that end running some finger out each month and basically burn out from it, after eight years later. The each month, you got of anti-speakers. Make sure they're fine. The value all these things... You mentioned doing that each month, or in a food and drink for people dealing with any incidents that occur making sure we keep a good rating venue to excellent. I think one of Messina through had about six different venues. It was finally glasses stay the longest. So I still, I thank you very much. Class Aves if you're listening.
+
+But yeah, the one little thing could just go wrong, right?
+
+Or if it didn't like any more. You to "atassi yes, yeah but at that point I was like, No, I need an easy lazier meetup to run. And at that point there's a man called Gary Fleming He's on of our co-organizers and we were basically going to a pub and Al going each other, and it was amazing for about six months and then something terrible happened. Alright, I didn't know. I think there's a... Well happen. We start agreeing with a... It is the worst sin it. So it's like, how can we scale this how can... How can we make it so there's more people we can argue it, I not agree with. And yeah, so it was basically... We continued it being in a pub and basically having different ways have chats of people like Man people. And that will eventually called in having a conference if you run each year, as well.
+
+Okay, so I had to the initial case agreed with each other. You had that awful moment of realization it was horrible.
+
+Yeah, yeah, I can. 'cause you lose a challenge, right? You don't want to... The Asus fun. No, you decided you need to expand. So how did you start expanding on how did you even Arrieta?
+
+Okay, yeah so there was another Meet-Up in Glasgow called the Natural Coleman. They used this format, which is lazy, which I love, which is called, Lin coffee, which is a way of having a democratic unstructured meeting, a genderless meeting very easily as in the agenda is set by the parties that I decide what to talk about and they move on and progress for it and that's real great 'cause you need to do very little up front. There's no two talkers there's no projection equipment, to make sure was working my slides all this stuff goes away. It's a much easier met up to run. So, we copy it what they were doing really and... Yeah, but we have a more... A software development bent rather than the process. Okay, and people came, yeah, yeah, different people. The more important that they came back, the as well, and that was 2014. so we've been going for five years, I suppose. Now has... Okay, so that's good. It sounds like it was quite a rich discussion, because the more people would get in the room, the more view points you'll get and the more interesting discussion will become as long as everybody is respectful of each other and all that. Yeah, so how did the name Cale a combat then?
+
+I guess at the time, if you want to differentiate yourself from Lean Agile the code craftsmanship that was the other name of the thing. software craftsmanship comment. So we, sort let on to that. And we are big sins, of literati here at COD, crafts.
+
+So code craft work quite well for us.
+
+Okay, so we don't call it "cosmas IP anymore, to know... And this is getting to the point, like I said, we scale basically, myself and Gary speaking at a pub to more people would like to come to a public speak to us.
+
+Yeah, remember the end of our first conference the first one we did co-craft com in the coloration that's a few back out.
+
+And we had 10 people that were running sessions that year and one of his feedback was said you had 10 due running all the sessions as her.
+
+Both feedback to get... Yeah, we like "Yeah we've not really tried hard enough, here. And that was a big point for us as a point of "flage inflection about where the unit was going.
+
+We're looking, Okay, how do we get "Barat this? And part of it just was actually desired network. The was... People that grand I knew were mainly other dudes, so we invited them to come speak Cort.
+
+Yeah, I so we read, we had to make one that works better, really. So this first part of that was changing the make-up of the organs were so invited more people that weren't like us, onto it. Starting with the Caroline.
+
+So I think we're missing someone from the organizer list.
+
+Yes, but that's also part of kind of another potion of diversity for a Jacaranda a pretty overall functional program is a... So we as the angel a little Jaime up. So we invite key along.
+
+So I could get some more from the more that net world into as well, okay. And he was doing pretty interesting stuff as well, so... And he's on with his little time in Nice. So how many members do we have? No, I like it as an on me of the organizer, committee. I think there are six civil even.
+
+Okay, six full-time in a way. Okay, so I got a... So myself and Gary and Keith Altos chronologically, I think, okay, on a short... Now, as Caroline has been moved his shoe baby Leia so congratulations.
+
+Yes, well, on Caroline and the baby carolines.
+
+I was at the conference last year and the first conference maybe... Yeah, you know, it was very exciting. And then, as yourself... Yeah, it's me. Yes, it is a... Yeah, and then we have recently we find in family to come to us as well. Yes, so, so, I to pass as well, yes, but he went to a job and even Brass we don't speak to him anymore, he... Yeah, it would be hard to travel between... Yeah, it was just hard, it was it. I don't think people get this like I know it's only 48 minutes on a train, but it's the distance to a is... Well yeah, yeah, but if you think London, right, for you is if it's connotation do for Col feel something where you're like, I... So far, good, alright, okay, so that kind of covers what and why? So what types of things do you deal at?
+
+So there's free types of events, we run. Okay, on line coffee, we should briefly touched on the... Have One is a workshop. So, WashU be anything, usually involved laptops, it's a chance to do some coding. So I think we had one last night which was for different ways. Does driven development. Yes, that is there at that store, the freeway. So it was really fun event. So what we did is we all Keith Keith, a great research and final together. So the idea is that you pay with juniors or seniors, or someone who's less experienced any, or more experience in... Okay, and then the first time you do someone call a ping pong pattern Person, A writes a test and passes it to person B, the person B, then the rights cooled to pass that test and then if it passes the person be write a test and he hands back to the laptop to person A and then it repeats until the time is finished. So it was the first one, initially. It's always funny to watch people try to set up an ID, 'cause he never... It's very rarely you setup a project with nothing in it.
+
+Yeah, yeah well a microservices a change that a bit, but... Yeah, and I... That template. So in that case, you... "lest it's not something that you're like... Oh, I'm gonna set you up from scratch. And then trying to pair up people who have similar kind of coding experience. We find that Java is still the main language that programming is being taught in. So usually people in Java. And then the second part was no speaking part. So you can talk to your partner, speaking. No, speaking which may pay programming very difficult. And also the room was only quiet.
+
+But what you want, right? elation know I didn't, it was a bit spooky and people were trying to gesture. Thumbs up, thumbs down. You're like, "No no communication.
+
+I'm pretty sure some people would have comments, be like, "Hey how do you do this? So that was the second part and the third part was that one person was doing all the coding, but the person too had to ask them questions about what they were doing, so kind of questioned a way the recording question away. They were using the IDE or anything, and then they would swap so it was really good. I think the feedback was really positive. We're definitely running again.
+
+Cool, so sorry I'm going on about about... It was quite fun. But as an example of what we do that... Right, yeah, yeah, so, that's so... So we got Lean Coffee just for chats. A Anant session. I think you see it. I bring on a problem and then try to hide some details in the art people, they would do in a situation.
+
+We do workshops, so we've got their example there ever doing a T-on. Yeah, we do a few things like that. And the last one we've got is something we invent is the cells called "guided conversations.
+
+Yeah, and that's so of keeping them this lazy idea of what was the minimum for effort you can do to get a really valuable experience. Basically guy conversation, which will be doing next week as well, depending on when this goes out. You may have missed it, sorry about that, but it... We treat the topic, say, I don't know, interviewing or hiring and then we think of 12 questions ahead of time and we just time box go through them and see where it takes us on the conversation, and that turns out to be a really quick way to get very high, very conversation. So that's our free formats.
+
+Yes, I think these are good for us, and I think the point of them is they're all kind of inclusive so you will always get included and you will always have this kind of experience. I think a lot of the time, if you go to me captures one person prevent presenting and then you just sit there and listen and who else? It's valuable for knowledge in... I think a lot of the times I switch off after 15 minutes, whereas if you have a conversation and it's kind of more of a personal level, I think a lot of people stay in aged.
+
+Yeah, and then I think if done correctly, it also gives a platform for everybody to share which I really enjoy because there's not this kind of power structure. So whether you are a junior or a senior, your points are valid and you have the space to share your thoughts. That's why I enjoy the kind of conversations.
+
+Yeah, yeah that's really good and fifth way, I realize that that's good. We're thinking about it. So yeah, Spitfires on A... So this was the journey obviously like Poli was gang.
+
+What does gender and a hope wants? Obviously, we've not actually been in a was saying, even more in the pub for about about 1 months also now. Yeah, it was something that I, when I first... So I've joined the one listening I've done in them. Or he went to 17 in with the re-Yeah, so "never 217. and I think it was that kind of time where cows already talking about moving out of the pup space to encourage more people to come. And I was really keen on that. I think being in a pub for me, it's very low.
+
+I don't really like light spaces, if I have to have a conversation with someone, but like screaming through the music. So I'm the pug, and I only came to first cold because it was a coding workshop and I was fillet, University and the idea that I could kind of get knowledge of someone who was much more senior than me and do it in a collaborative way and they could learn some for me and I could learn some from them.
+
+That was step I like I.So I came here and then I was quite skeptical of common to the pub. So the fact that we moved into an office space I think for a more positive meet-up, I also think kind of it gives it a little bit more of a professional tone. You're going to an office space, so you don't you expect a certain level of behavior because of that space, yeah, and I think that kind of helps with burning people who may have not come to the pub, into her meet-ups, and we also to go to the pub after. So we did keep that and people who wanted to come after.
+
+Yeah, or afterwards, yeah, as a thing we struggle. I at first was we had if it was in a pub, we want to say, but we want to be really clear that is no expectation or obligation to drink there, but if you're on a pub isps, it's kind of implied isn't it, is that I struggled with...
+
+I also think we had a logo which was a pan class. Yeah, yeah, our is... No logo was a plain glass made of two different races, the... And it had to be her in it.
+
+Yeah, and we weren't very non-as a regular designs, so it took us way too long to get under fixing that. But if you look at this podcast on you'll notice that is no longer a painless. Yes, and I think that it's important because if someone's not being to hear me imagine the images are so important. Yeah, so... Yeah, I think that was really good effort. I think it takes a long time and a lot of thought, because if you're changing a logo and you're changing the whole look, there is quite a lot of thought that goes into that, especially if you... None of us are kind of marketing experts.
+
+Yes, so I been a draw back in the past, yes, so we had someone made us a logo and it was through... I fill... So the idea of food the... And cool, yeah, and this is where we are now, so we have a meet up every month we have a conference now we have this podcast. A lot of more things will be happening in the future of a busy social life now.
+
+Yeah, totally, and as you said with more and more people coming into the industry well, I probably have to up-scale somehow.
+
+Yeah, yeah, it will be more learning control will be even bare things. Two years from now than we were two years ago. Yeah, 100%. I'm gonna do a little Q and A for you as an organizer, Okay, most most rewarding thing. As an organizer, what do you think I said "A most rewarding moments is probably for myself I guess personally just going from someone cool, really organized very peat to talk me up to what we have now, which is a way more interesting.
+
+Yeah, okay, question number two biggest pet peeve of being an organizer.
+
+Have you be with... Well, it's like Okay, so running a conference, I got my once so far I still... My at a well on the state to congratulations to hand.
+
+It's like, in a one right, sorry.
+
+And yeah, it's a averting a wedding. So as a peppy they would definitely be herring to predict. offered.
+
+I see because it's like who we can have in I in a have who's gonna do the talk. It's all a reber. The best day ever had was actually the day after my wording 'cause I wear is, I probably wouldn't have have to run a wedding again, So I'm fortunately a Sufi this by running a conference. This Titans men, yeah, and we are expanding every year I go, yeah, yeah, I think going year five I... Yeah, yeah, that must be one. God, all I E-Amoco Ron.
+
+Yeah, for a year before something nice. Okay, and the last question if you could improve anything in colle... Craft what would it be and why?
+
+Well, look, we always have a theme each year or what a thing we wanna get better at. It's never really been get more people, because to extend the lines things but we're trying to just change the make-up of people that actually come along. I know Gary's been looking at some stats to Glasgow. I would like at least two people come to me to, to represent the people that are in the city.
+
+Yeah, and we start to track things, now what is... How many any women are attending, how many people for minority or attending? And we don't necessarily do great that but we do a lot better. We used to... And that's probably the next thing with the train look at and see what we can improve and I think or this is a big part, this is actually making sure your organizers reflect the people you wanna come along as well as to make up. You want people at 10 'cause I think you end up with a by aces in anyway 'cause they design for himself.
+
+Yes, that's very true. And I think if you have organizers that friends of friends and the groups you as you said, you in very people you knew.
+
+So yeah, yeah, and that's an interesting thing.
+
+So we have a new segment cold. What have you learned, which is basically just talking about things you have learned recently? Yes, is a little quick way to close the show off is all we're thinking. Yeah, yes, I... That's a good way to close the short I... Yeah, I, yeah, so I'll say, "Well I've learned recently, yeah, as I need to book report in both a bug report okay, actually like the people that make the tool. So that's what I've tradition, me recreating the book, Roland. Just saying future X doesn't work or some files cake, your logs as a software developer, you hear when you get a bug and if someone's like, It doesn't work that I can using. What were you doing at the time? Context right when fixing bugs and software development, trying to re-create the bug is like, No, I said the total, if you are... You can recreate... You find but it's real hard, sometimes re-crying. So I want to give a little video was starting my web browser and there's a bunch of tools with horrific X, so I get rejecting them until I found what didn't suck enough now, I was a chrome extension screen cast okay, it's free. Prefer your first 50 videos a month. And if you're finding more to 50 videos of bugs, that's probably you got more problems than what you have to use into record was in your webpage late. Because if you have a Google account, then it just hooks up to that and puts a video and Google Drive, and then you've got Earl. You can share with people too should not be creating it and it's like, "Yeah its site is on to annoying, 'cause it's just there. You go, What do you want to go account done? And then they got a button that I press it, and you record you as off and they've got the video for you.
+
+That's how it should work. And quite surprisingly, not west of the tools, I started using didn't work that nicely so I appreciate good X and something that gets my job done pretty quickly, So I impress wise, so well on screen Asif it's a sign like a good too. I think it's some of that I would use, I genuinely do.
+
+Was she a favorite? Bucky? Very reputed.
+
+It's still occurring, and Spotify is... I have a phone than I've got my Spotify on it, and when the screen goes into you look your screen the music stops.
+
+Oh, it's really for strand. Probably not her supposed to work so that not how you... My favorite of a bug okay. And this was on my galaxy Samson to sport. Best point I have everyone that love that "portas the first underwater used and it was a great book.
+
+This is great book, I use to do. If it wasn't spot fight was NPF player, because we didn't have Spotify then you to keep your music catalog. It was the dark ages.
+
+But if I got a notification what we would do is that it would sort of reduce the music volume that is cause to story. Got notification but what I also did by accident, and I'm using on headphones right in an office, I hope and plan because that's why we work.
+
+Yeah, I was on native habitat when I got to fiction, it would also play my music, a full blast to want figure out 'cause I'm like, I did my, I play music to the office to do it. Only if the duration of a notification coming in. So that one play I got fortifications are even pose A... And they saw signification to see to it minor.
+
+Was it a... What music was it?
+
+I caught "rambert NPF player. But you used to have to choose by then.
+
+I don't know what track were you please saying so, and why would you ask such a test that... Absolutely not a... So thank you very much for listening to our podcast. I guess if you like you, please give us a thumbs up, tweet us messages.
+
+The one thing I... Yeah, that sounds like a good thing to do.
+
+Yeah, we like feedback. So if there's anything you wanna talk about, if you were to hear but stuff if you would like to be a guest on the podcast contact us at a clerk on Twitter thing, as a message. Arms are open.
+
+We're also a contact to Cork to aggressive for email. But yeah, we are looking for people to interview for future episodes. So if you've got something is a... Lets talk about and be interviewed by us then please do send us a message at a... So thank you so much for canning it. And who was the next time.
